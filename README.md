@@ -19,3 +19,5 @@ Swagger Editor - https://editor.swagger.io/
 OpenAPI Specification - https://swagger.io/specification/#oas-version
 
 Semantic Versioning - https://semver.org/spec/v2.0.0.html
+
+Typescript Deep Dive - https://basarat.gitbook.io/typescript/
