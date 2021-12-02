@@ -23,3 +23,5 @@ Semantic Versioning - https://semver.org/spec/v2.0.0.html
 Typescript Deep Dive - https://basarat.gitbook.io/typescript/
 
 Browser Cookie Validator - https://samesite-sandbox.glitch.me/
+
+liquid - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#tags
