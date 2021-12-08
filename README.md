@@ -25,3 +25,5 @@ Typescript Deep Dive - https://basarat.gitbook.io/typescript/
 Browser Cookie Validator - https://samesite-sandbox.glitch.me/
 
 liquid - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#tags
+
+nvm (Node Version Switcher) - https://github.com/jasongin/nvs
