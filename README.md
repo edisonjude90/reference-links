@@ -1,8 +1,4 @@
-Code Editor
-
-VS Code - https://code.visualstudio.com/download
-
-* My single most used code editor now.. 
+VS Code (Code Editor) - https://code.visualstudio.com/download
 
 Extension: 
 
@@ -12,7 +8,7 @@ Extension:
 
 * Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
-Geany - https://www.geany.org/ [Great IDE]
+Geany (Code Editor) - https://www.geany.org/
 
 Swagger Editor - https://editor.swagger.io/
 
