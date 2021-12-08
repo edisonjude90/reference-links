@@ -27,3 +27,5 @@ Browser Cookie Validator - https://samesite-sandbox.glitch.me/
 liquid - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#tags
 
 nvm (Node Version Switcher) - https://github.com/jasongin/nvs
+
+Docusaurus (fully bootstrapped website great for documentation)  https://docusaurus.io/docs
