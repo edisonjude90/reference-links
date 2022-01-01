@@ -25,3 +25,5 @@ liquid - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#tags
 nvm (Node Version Switcher) - https://github.com/jasongin/nvs
 
 Docusaurus (fully bootstrapped website great for documentation)  https://docusaurus.io/docs
+
+bible api - https://bible-api.com/
