@@ -27,3 +27,5 @@ nvm (Node Version Switcher) - https://github.com/jasongin/nvs
 Docusaurus (fully bootstrapped website great for documentation)  https://docusaurus.io/docs
 
 Bible api - https://bible-api.com/
+
+CSS Battle (Let the battle begin - just kidding nice way to improve css skills) - https://cssbattle.dev/
