@@ -26,4 +26,4 @@ nvm (Node Version Switcher) - https://github.com/jasongin/nvs
 
 Docusaurus (fully bootstrapped website great for documentation)  https://docusaurus.io/docs
 
-bible api - https://bible-api.com/
+Bible api - https://bible-api.com/
