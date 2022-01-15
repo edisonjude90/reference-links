@@ -32,4 +32,4 @@ CSS Battle (Let the battle begin - just kidding nice way to improve css skills) 
 
 Cron Job Format schedule time - https://crontab.guru/
 
-grpc - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc
+gRPC - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc
