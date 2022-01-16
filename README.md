@@ -18,6 +18,8 @@ Semantic Versioning - https://semver.org/spec/v2.0.0.html
 
 Typescript Deep Dive - https://basarat.gitbook.io/typescript/
 
+Typescript Handbook - https://www.typescriptlang.org/docs/handbook
+
 Browser Cookie Validator - https://samesite-sandbox.glitch.me/
 
 liquid - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#tags
