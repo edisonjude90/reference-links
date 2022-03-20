@@ -41,3 +41,5 @@ Design Patterns - https://www.patterns.dev/
 ecosia - (the search engine that plants trees) https://www.ecosia.org/
 
 Guide To TDD - https://github.com/dwyl/learn-tdd
+
+Performance - https://developers.google.com/web/fundamentals/performance/rendering
