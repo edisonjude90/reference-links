@@ -46,8 +46,8 @@ Performance - https://developers.google.com/web/fundamentals/performance/renderi
 
 RichTextEditor for ReactJs
 
-  slate.js - https://www.slatejs.org/examples/richtext
+  * slate.js - https://www.slatejs.org/examples/richtext
 
-  draft.js - https://draftjs.org/
+  * draft.js - https://draftjs.org/
 
-  lexical - https://lexical.dev/
+  * lexical - https://lexical.dev/
