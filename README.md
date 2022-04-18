@@ -1,6 +1,6 @@
 VS Code (Code Editor) - https://code.visualstudio.com/download
 
-Extension: 
+**Extension: **
 
 * ESLint - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
@@ -44,7 +44,7 @@ Guide To TDD - https://github.com/dwyl/learn-tdd
 
 Performance - https://developers.google.com/web/fundamentals/performance/rendering
 
-RichTextEditor for ReactJs
+**RichTextEditor for ReactJs**
 
   * slate.js - https://www.slatejs.org/examples/richtext
 
