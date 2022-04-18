@@ -1,6 +1,6 @@
 VS Code (Code Editor) - https://code.visualstudio.com/download
 
-**Extension: **
+**Extension**
 
 * ESLint - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
