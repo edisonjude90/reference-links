@@ -43,3 +43,11 @@ ecosia - (the search engine that plants trees) https://www.ecosia.org/
 Guide To TDD - https://github.com/dwyl/learn-tdd
 
 Performance - https://developers.google.com/web/fundamentals/performance/rendering
+
+RichTextEditor for ReactJs
+
+  slate.js - https://www.slatejs.org/examples/richtext
+
+  draft.js - https://draftjs.org/
+
+  lexical - https://lexical.dev/
