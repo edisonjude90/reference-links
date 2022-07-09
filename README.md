@@ -51,3 +51,5 @@ Performance - https://developers.google.com/web/fundamentals/performance/renderi
   * draft.js - https://draftjs.org/
 
   * lexical - https://lexical.dev/
+
+Balena Etcher (IOS file Flash tool) - https://www.balena.io/etcher/
