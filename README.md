@@ -55,3 +55,7 @@ Performance - https://developers.google.com/web/fundamentals/performance/renderi
 Balena Etcher (IOS file Flash tool) - https://www.balena.io/etcher/
 
 Mail Jet Npm - https://www.npmjs.com/package/mjml
+
+Recoil - https://recoiljs.org/
+
+Recoil Devtool - https://github.com/creotip/recoil-gear
