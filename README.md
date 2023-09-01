@@ -64,4 +64,6 @@ Mermaid - https://mermaid.js.org/ [JavaScript based diagramming and charting too
 
 Roadmaps - https://roadmap.sh/roadmaps
 
+Kirupa - https://www.kirupa.com/
+
 
