@@ -66,4 +66,6 @@ Roadmaps - https://roadmap.sh/roadmaps
 
 Kirupa - https://www.kirupa.com/
 
+apievangelist - https://apievangelist.com/blog/
+
 
