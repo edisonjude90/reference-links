@@ -68,4 +68,6 @@ Kirupa - https://www.kirupa.com/
 
 apievangelist - https://apievangelist.com/blog/
 
+loadbalancer - https://www.youtube.com/watch?v=QE26N9cHE2M
+
 
