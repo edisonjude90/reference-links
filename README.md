@@ -70,5 +70,5 @@ apievangelist - https://apievangelist.com/blog/
 
 loadbalancer - https://www.youtube.com/watch?v=QE26N9cHE2M
 
-Deploy - docusaurus - dhttps://github.com/LayZeeDK/github-pages-docusaurus
+Deploy - docusaurus - https://github.com/LayZeeDK/github-pages-docusaurus
 
