@@ -70,6 +70,8 @@ apievangelist - https://apievangelist.com/blog/
 
 loadbalancer - https://www.youtube.com/watch?v=QE26N9cHE2M
 
+code-with-engineering-playbook - https://github.com/microsoft/code-with-engineering-playbook
+
 Deploy - docusaurus - https://github.com/LayZeeDK/github-pages-docusaurus
 
 Plan your finance - https://zerodha.com/varsity/chapter/a-tale-of-three-traders/
