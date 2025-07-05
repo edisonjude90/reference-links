@@ -86,3 +86,5 @@ https://medium.com/intel-tech/ai-dance-party-foundation-vs-fine-tuned-models-d26
 
 https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39
 
+
+https://m.youtube.com/watch?v=KJtZARuO3JY
