@@ -79,3 +79,10 @@ Plan your finance - https://zerodha.com/varsity/chapter/a-tale-of-three-traders/
 3rd Party Cookie Chrome - https://developer.chrome.com/blog/cookie-countdown-2023oct/?fbclid=IwAR1auId8KnkTNZi9GRNdxFYw6RnMy_-m0TVKs8nbD4WAwNuXccW62gTS3OY
 
 Azure DevOps Labs - https://azuredevopslabs.com/
+
+### AI & ML 
+
+https://medium.com/intel-tech/ai-dance-party-foundation-vs-fine-tuned-models-d269df518b92
+
+https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39
+
